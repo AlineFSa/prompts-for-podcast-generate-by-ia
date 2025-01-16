@@ -25,14 +25,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [claude](https://claude.ai/
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Claude Para gerar capas
+- ChatGPT Para gerar capas
 
 ## 📚 Materiais
 
